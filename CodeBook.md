@@ -86,7 +86,7 @@ Summary of the resulting fields in the tidy.txt file.
 * fBodyBodyGyroJerkMagStd
 * fBodyBodyGyroJerkMagMeanFreq
 
-#Activity Labels
+## Activity Labels
 * WALKING: Value 1 in Activity column.
 * WALKING_UPSTAIRS: : Value 2 in Activity column.
 * WALKING_DOWNSTAIRS: Value 3 in Activity column.
